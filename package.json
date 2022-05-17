@@ -1,0 +1,28 @@
+{
+  "name": "await-simple",
+  "version": "0.0.0-development",
+  "description": "优雅处理 await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoweelZhang/await-simple.git"
+  },
+  "keywords": [
+    "await",
+    "simple",
+    "primise"
+  ],
+  "author": "HoweelZhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoweelZhang/await-simple/issues"
+  },
+  "homepage": "https://github.com/HoweelZhang/await-simple#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
